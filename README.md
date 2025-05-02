@@ -57,4 +57,3 @@ GNU General Public License v3.0 - See [LICENSE](LICENSE) for details.
 
 ## 💬 Contact
 For questions/suggestions, open an Issue or contact the maintainers.
-```
