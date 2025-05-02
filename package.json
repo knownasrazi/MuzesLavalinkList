@@ -1,0 +1,20 @@
+{
+  "name": "muzes-lavalink-list-new",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "start": "turbo start",
+    "dev": "turbo dev",
+    "format": "turbo format",
+    "lint": "turbo lint"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.3",
+    "turbo": "^2.5.2",
+    "typescript": "^5.4.5"
+  },
+  "packageManager": "pnpm@9.11.0",
+  "engines": {
+    "node": ">=18"
+  }
+}
