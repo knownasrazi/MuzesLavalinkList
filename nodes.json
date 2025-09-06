@@ -358,5 +358,35 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "1355098189388189726"
-    }
+    },
+    {
+        "name": "Lavalink V4 TriniumHost",
+        "host": "lavalink-v4.triniumhost.com",
+        "port": 443,
+       "password": "free",
+       "secure": true,
+       "region": "BR",
+       "restVersion": "v4",
+       "authorId": "820344895528632380"
+  },
+  {
+        "name": "Lavalink V4 02 TriniumHost",
+        "host": "181.215.45.8",
+        "port": 2333,
+       "password": "kirito",
+       "secure": false,
+       "region": "BR",
+       "restVersion": "v4",
+       "authorId": "820344895528632380"
+  },
+ {
+        "name": "Lavalink V3 TriniumHost",
+        "host": "181.215.45.8",
+        "port": 2334,
+       "password": "free",
+       "secure": false,
+       "region": "BR",
+       "restVersion": "v3",
+       "authorId": "820344895528632380"
+  }
 ]
